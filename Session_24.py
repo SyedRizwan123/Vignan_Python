@@ -165,7 +165,7 @@ print("Word Count:", word_count)"""
 # Find the Student with the Highest Marks
 students = {"Ravi": 85, "Sneha": 92, "Amit": 78, "Priya": 95}
 
-
+print("Student")
 
 
 
